@@ -1,0 +1,12 @@
+.azeret-mono {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+  }
+  .nav{
+    display: inline;
+    align-items:center ;
+    justify-content: space-around;
+  }
+  
